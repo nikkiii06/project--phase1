@@ -52,7 +52,7 @@ body, html {
   }
 
 /* Specific Backgrounds */
-.hero {
+.index {
   background-image: url('https://i.pinimg.com/736x/d3/79/8c/d3798c2b939fb58af1b2d39226f33276.jpg');
 }
 
@@ -65,7 +65,7 @@ body, html {
   background-image: url('https://i.pinimg.com/736x/13/13/89/13138908c24bbaf6a2aa536e589eb70f.jpg');
 }
 
-.gallery {
+.th3 {
   background-image: url('https://i.pinimg.com/736x/42/2b/b6/422bb6b8c3b5453fbc37f05c92386a98.jpg');
 }
 
@@ -104,20 +104,20 @@ body, html {
 }
 
 /* Gallery Grid */
-.gallery-grid {
+.th3-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
   gap: 15px;
   margin-top: 30px;
 }
 
-.gallery-grid img {
+.th3-grid img {
   width: 100%;
   border-radius: 10px;
 }
 
 /* Footer */
-.cast-container {
+.th1t-container {
     display: flex;
     justify-content: flex-end; /* Pushes box to the right */
     padding: 50px 80px;
