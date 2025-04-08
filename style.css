@@ -127,7 +127,7 @@ body, html {
     background-color: #5a5a5a;
     padding: 20px;
     border-radius: 10px;
-    width: 100px; 
+    width: 350; 
     height: auto;
     color: white;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
@@ -157,7 +157,7 @@ body, html {
     flex-direction: column;
   }
   footer {
-    margin-top: 100px;  /* adds space before black bar */
+    margin-top: 100px;  
     background-color: #111;
     color: white;
     padding: 15px 0;
@@ -165,7 +165,7 @@ body, html {
     font-size: 14px;
   }
   .glass-box {
-    margin-top: 180px; /* Increased from 120px to 180px */
+    margin-top: 180px; 
     padding: 30px;
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
