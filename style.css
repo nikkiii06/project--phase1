@@ -163,6 +163,12 @@ body, html {
     text-align: center;
     font-size: 14px;
   }
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
   .glass-box {
     margin-top: 180px; 
     padding: 30px;
