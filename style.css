@@ -170,6 +170,7 @@ body, html {
 }
 
   .glass-box {
+    display:flex;
     margin-top: 180px; 
     padding: 30px;
     background: rgba(255, 255, 255, 0.1);
@@ -181,6 +182,7 @@ body, html {
     margin-right: auto;
     text-align: left;
     color: white;
+    
   }
   .circle-img {
     width: 250px;  
