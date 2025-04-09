@@ -77,14 +77,14 @@ body, html {
 }
 
 
-.th1-card {
+.th1-profile {
   display: flex;
   align-items: center;
   gap: 20px;
   margin-top: 30px;
 }
 
-.th1-card img {
+.th1-profile img {
   width: 120px;
   border-radius: 10px;
 }
